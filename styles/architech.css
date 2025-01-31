@@ -218,7 +218,7 @@ main>section{
  .last{
     justify-items: center;
     padding: 5px;
-    margin: 0 auto;
+    margin: 15px auto;
   }
 }
 /* medium size device */
